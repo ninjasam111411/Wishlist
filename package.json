@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Serverless functions for Wishlist (Vercel). No build step -- Vercel installs this one dependency and deploys api/*.js as-is.",
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
